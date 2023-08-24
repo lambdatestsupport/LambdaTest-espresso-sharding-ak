@@ -14,10 +14,10 @@ framework:
     deviceLog: true
     
     # You can use either the appId (lt://APP1234567) or provide the path of the application using appPath.
-    appId: lt://APP10160541471692811634504249
+    appId: <app_url>
     # We have used the appPath here instead of appId
     # You can use either the APP ID (lt://APP1234567) or provide the path of the application.
-    testSuiteAppId: lt://APP1016039961692811663235892
+    testSuiteAppId: <suite_url>
     # We have used the testSuiteAppID here instead of testSuitePath
 
     deviceSelectionStrategy: any
